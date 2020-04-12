@@ -1,3 +1,4 @@
+This is my sample project.
 # .NET Samples
 
 This repo contains all the sample code that is part of any topic under
